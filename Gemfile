@@ -28,8 +28,10 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-gem 'rails_log_stdout',           github: 'heroku/rails_log_stdout'
-gem 'rails3_serve_static_assets', github: 'heroku/rails3_serve_static_assets'
+# gem 'rails_log_stdout',           github: 'heroku/rails_log_stdout'
+# gem 'rails3_serve_static_assets', github: 'heroku/rails3_serve_static_assets'
+gem 'bootstrap-sass'
+gem 'autoprefixer-rails'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
